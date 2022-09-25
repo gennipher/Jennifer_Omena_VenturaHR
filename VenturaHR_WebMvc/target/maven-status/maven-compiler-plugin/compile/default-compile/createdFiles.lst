@@ -1,0 +1,6 @@
+br\edu\infnet\VenturaHR_WebMvc\VenturaHrWebMvcApplication.class
+br\edu\infnet\VenturaHR_WebMvc\infra\vagas\VagaService.class
+br\edu\infnet\VenturaHR_WebMvc\domain\vagas\Vaga.class
+br\edu\infnet\VenturaHR_WebMvc\infra\usuarios\UsuarioService.class
+br\edu\infnet\VenturaHR_WebMvc\app\usuarios\UsuarioController.class
+br\edu\infnet\VenturaHR_WebMvc\domain\usuarios\Usuario.class

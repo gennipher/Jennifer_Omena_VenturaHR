@@ -1,0 +1,4 @@
+br\edu\infnet\domain\vagas\Criterio.class
+br\edu\infnet\VenturaHrEmpresaApplication.class
+br\edu\infnet\domain\vagas\Vaga.class
+br\edu\infnet\infra\vagas\VagaRepository.class

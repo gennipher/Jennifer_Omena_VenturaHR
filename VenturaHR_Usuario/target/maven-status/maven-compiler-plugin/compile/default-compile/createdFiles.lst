@@ -1,0 +1,4 @@
+br\edu\infnet\infra\UsuarioRepository.class
+br\edu\infnet\app\UsuarioController.class
+br\edu\infnet\domain\usuarios\Usuario.class
+br\edu\infnet\VenturaHR_UsuarioApplication.class
