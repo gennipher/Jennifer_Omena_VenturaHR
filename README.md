@@ -1,5 +1,5 @@
-Scripts para criação das tabelas do banco de dados
-Nome da database: ventura_hr
+# Scripts para criação das tabelas do banco de dados
+## Nome da database: ventura_hr
 
 CREATE TABLE `usuarios` (
   `id` int NOT NULL AUTO_INCREMENT,
